@@ -92,3 +92,7 @@ p = p.properties(
     width=alt.Step(80)  # controls width of bar.
 )
 st.write(p)
+st.write("""
+***
+""")
+st.write('***made by amine ab***')
